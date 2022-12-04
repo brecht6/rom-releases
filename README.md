@@ -1,1 +1,1 @@
-# rom-releases
+# go to releases tab for downloads
